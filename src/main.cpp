@@ -15,8 +15,8 @@
 
 // Definisikan koneksi WiFi
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "JAWIR BERIMAN"; 
-char pass[] = "Wisuda2024";   
+char ssid[] = "Kurta"; 
+char pass[] = "bimo1456";   
 
 // deklarasikan data yang dibutuhkan Thingspeak
 WiFiClient client;
